@@ -49,21 +49,21 @@ OpenSpending.Styles.Cofog = {
   '802': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#C75746' },
   '803': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#C75746' },
   '804': { icon: 'icons/planning.svg', color: '#C75746', bcolor: '#C75746' },
-  '805': { icon: 'icons/construction.svg', color: '#C75746', bcolor: '#C75746' },
-  '9': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#D33673' },
-  '901': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#D33673' },
+  '805': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#C75746' },
+  '9': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#D33673' },
+  '901': { icon: 'icons/bousai.svg', color: '#C75746', bcolor: '#D33673' },
   '10': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' },
-  '1001': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '1002': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
+  '1001': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' }
+  '1002': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#790586' }
   '1003': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '1004': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '1005': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '1006': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#790586' }
-  '11': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' }
- '1101': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' }
- '1102': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' }
+  '1004': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#790586' }
+  '1005': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#790586' }
+  '1006': { icon: 'icons/sports.svg', color: '#C75746', bcolor: '#790586' }
+  '11': { icon: 'icons/bousai.svg', color: '#C75746', bcolor: '#790586' }
+ '1101': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#790586' }
+ '1102': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#790586' }
  '1103': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#790586' }
- '12': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
+ '12': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' }
  '1201': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
  '13': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
  '1301': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
